@@ -1,7 +1,7 @@
 import webbrowser
 import time
 
-url = "https://www.youtube.com/watch?v=S13IOQl8Td8&autoplay=1"
+url = "https://www.youtube.com/watch?v=bv__9O5CZok&autoplay=1"
 for i in range(30):
     webbrowser.open(url)
     time.sleep(1)
